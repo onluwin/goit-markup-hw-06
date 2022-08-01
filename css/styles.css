@@ -183,6 +183,8 @@ li {
 .hero {
   height: 600px;
   background-image: url(../images/herobg.png);
+  background-repeat: no-repeat;
+  background-position: center;
 }
 .hero-title {
   padding-bottom: 30px;
